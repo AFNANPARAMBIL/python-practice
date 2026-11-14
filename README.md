@@ -21,6 +21,7 @@ A collection of my beginner-friendly Python programs as I learn programming and 
 | 6 | Simple Interest Calculator | [06_simple_interest.py](06_simple_interest.py) | Calculates simple interest |
 | 7 | BMI Calculator | [07_bmi_calculator.py](07_bmi_calculator.py) | Calculates body mass index |
 | 8 | Shopping Receipt | [08_shopping_receipt.py](08_shopping_receipt.py) | Adds three product prices |
+| 9 | Electricity Bill Estimator | [09_electricity_bill_estimator.py](09_electricity_bill_estimator.py) | Estimates bill from units × cost per unit |
 
 ## ▶️ How to Run
 
