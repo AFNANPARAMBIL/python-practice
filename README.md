@@ -23,6 +23,14 @@ A collection of my beginner-friendly Python programs as I learn programming and 
 | 8 | Shopping Receipt | [08_shopping_receipt.py](08_shopping_receipt.py) | Adds three product prices |
 | 9 | Electricity Bill Estimator | [09_electricity_bill_estimator.py](09_electricity_bill_estimator.py) | Estimates bill from units × cost per unit |
 
+| 10 | Shopping Bill with Discount, GST & Delivery | [10_shopping_bill.py](10_shopping_bill.py) | Discounts, tax and delivery calculations (practice assumptions) |
+| 11 | Quadratic Equation Solver | [11_quadratic_equation_solver.py](11_quadratic_equation_solver.py) | Solves real and complex quadratic roots |
+| 12 | Employee Salary Calculator | [12_employee_salary_calculator.py](12_employee_salary_calculator.py) | DA, HRA, PF and net salary using sample rates |
+| 13 | Student Marks List Analysis | [13_student_marks_analysis.py](13_student_marks_analysis.py) | Total, average, highest and lowest marks |
+| 14 | Python List Operations | [14_python_list_operations.py](14_python_list_operations.py) | Append, insert, remove, sorting, aliasing and copying |
+| 15 | List Search Program | [15_list_search.py](15_list_search.py) | Finds first matching index |
+| 16 | List Slicing & Reversing | [16_list_slicing_and_reversing.py](16_list_slicing_and_reversing.py) | Slicing, counting and reversing examples |
+
 ## ▶️ How to Run
 
 1. Install [Python 3](https://www.python.org/downloads/).
