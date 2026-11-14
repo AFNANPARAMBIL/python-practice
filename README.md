@@ -69,3 +69,26 @@ These programs are learning exercises, not production-grade financial or medical
 ---
 
 *Learning Python one program at a time.* 🚀
+
+
+## 🆕 Additional Reviewed Practice Programs
+
+These programs are stored in the `programs/` folder so the existing numbered exercises remain unchanged.
+
+| Program | Source file | Description |
+|---|---|---|
+| Employee Salary Calculator | [employee_salary_calculator.py](programs/employee_salary_calculator.py) | Basic pay, HRA, travel allowance, PF deduction and net pay |
+| Loan Eligibility Checker | [loan_eligibility_checker.py](programs/loan_eligibility_checker.py) | Demonstration age, income and credit-score checks |
+| Scholarship Eligibility | [scholarship_eligibility.py](programs/scholarship_eligibility.py) | Illustrative merit and family-income tiers |
+| Quadratic Equation Solver | [quadratic_equation_solver.py](programs/quadratic_equation_solver.py) | Real, repeated and complex roots |
+| Leap Year Checker | [leap_year_checker.py](programs/leap_year_checker.py) | Gregorian leap-year rules |
+
+Run one program with `python programs/leap_year_checker.py`.
+
+Run the included automated tests with:
+
+```bash
+python -m unittest discover -s tests -v
+```
+
+**Disclaimer:** The loan interest rates and scholarship eligibility rules are classroom examples only, not actual bank offers or government scholarship criteria.
