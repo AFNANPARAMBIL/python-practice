@@ -31,6 +31,16 @@ A collection of my beginner-friendly Python programs as I learn programming and 
 | 15 | List Search Program | [15_list_search.py](15_list_search.py) | Finds first matching index |
 | 16 | List Slicing & Reversing | [16_list_slicing_and_reversing.py](16_list_slicing_and_reversing.py) | Slicing, counting and reversing examples |
 
+| 17 | Travel Distance Calculator | [17_travel_distance_calculator.py](17_travel_distance_calculator.py) | Speed × time |
+| 18 | Student Subject Marks | [18_student_subject_marks.py](18_student_subject_marks.py) | Six-subject average and percentage |
+| 19 | Employee Net Salary | [19_employee_net_salary.py](19_employee_net_salary.py) | Pay plus allowances minus deductions |
+| 20 | Triangle Area | [20_triangle_area.py](20_triangle_area.py) | Base × height ÷ 2 |
+| 21 | Voting Age Check | [21_voting_eligibility.py](21_voting_eligibility.py) | Age threshold practice |
+| 22 | Number Conditions | [22_number_conditions.py](22_number_conditions.py) | Positive, negative, even, odd and comparisons |
+| 23 | Student Grouping | [23_student_grouping.py](23_student_grouping.py) | Integer division and remainder |
+| 24 | Temperature Alert | [24_temperature_alert.py](24_temperature_alert.py) | Temperature threshold practice |
+| 25 | Formatting & Arithmetic | [25_python_formatting_and_arithmetic.py](25_python_formatting_and_arithmetic.py) | F-strings, binary and arithmetic |
+
 ## ▶️ How to Run
 
 1. Install [Python 3](https://www.python.org/downloads/).
